@@ -3,7 +3,7 @@
 ### <div align="center">I'm Zabihullah Azadzoi, a senior MERN stack developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working as a Freelance Developer  
+- 🔭 I’m currently working as a Freelancer Developer  
   
 
 - 🌱 I’m currently learning Microservices and Kubernetes  
