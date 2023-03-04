@@ -1,6 +1,6 @@
 
 
-### <div align="center">I'm Zabihullah Azadzoi, a MERN stack developer 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">I'm Zabihullah Azadzoi, MERN stack developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
 - 🔭 I’m currently working as a Freelancer Developer  
